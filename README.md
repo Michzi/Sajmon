@@ -50,8 +50,7 @@ Pokud máte jakékoli dotazy, nahlásili jste chybu nebo máte nápady na vylep�
 ## ⚙️ Technologie  
 Sajmon je postaven pomocí moderních technologií, aby byl rychlý, efektivní a spolehlivý:  
 - **Jazyk:** Node.js  
-- **Framework:** Discord.js / Discord.py  
-- **Databáze:** PostgreSQL / MongoDB  
+- **Framework:** Discord.js 
 - **Hosting:** Cloud VPS  
 
 ---
